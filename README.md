@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Mehdi Rashid! 👋
 
-<!--
-**mhdirake/mhdirake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate front-end developer with a keen interest in creating user-friendly and visually appealing web applications. I love to explore new technologies and solve real-world problems through coding. Currently, I am focused on honing my skills in front-end development, including HTML, CSS, JavaScript, and various front-end frameworks.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React.js, Vue.js
+- **Tools:** Git, GitHub, VS Code
+- **Design:** Figma, Adobe XD
+
+## 🌱 Currently Learning
+
+I am currently enhancing my skills in React.js and exploring advanced JavaScript concepts. I am also diving into responsive web design and mobile app development using React Native.
+
+## 💼 Projects
+
+- **Project Name:** [Project 1](link to the project)
+  - *Brief description of the project.*
+  
+- **Project Name:** [Project 2](link to the project)
+  - *Brief description of the project.*
+
+## 📫 Let's Connect!
+
+- GitHub: [mehdi-rashid](https://github.com/mehdi-rashid)
+- LinkedIn: [Mehdi Rashid](https://www.linkedin.com/in/mehdi-rashid/)
+- Portfolio: [mehdirashid.dev](https://mehdirashid.dev)
+- Email: mehdi@example.com
+
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! 😊
+
+Happy coding!
