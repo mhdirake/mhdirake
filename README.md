@@ -4,9 +4,9 @@ I am a passionate front-end developer with a keen interest in creating user-frie
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Vue.js
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** HTML, CSS, JavaScript, PHP
+- **Frameworks/Libraries:** React.js, Vue.js, Next.js, Nuxt.js, Vuetify.js
+- **Tools:** Git, GitHub, Gitlab, VS Code
 - **Design:** Figma, Adobe XD
 
 ## 🌱 Currently Learning
