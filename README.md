@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:6366F1&height=230&section=header&text=Mehdi%20Rashid&fontSize=58&fontColor=F0F0F0&fontAlignY=38&animation=fadeIn&desc=Senior%20Frontend%20Engineer%20%E2%80%94%20React%20%2F%20Next.js%20%2F%20Vue%20%2F%20Nuxt&descAlignY=58&descSize=18&descColor=A5B4FC" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:E31C25&height=230&section=header&text=Mehdi%20Rashid&fontSize=58&fontColor=F0F0F0&fontAlignY=38&animation=fadeIn&desc=Senior%20Frontend%20Engineer%20%E2%80%94%20React%20%2F%20Next.js%20%2F%20Vue%20%2F%20Nuxt&descAlignY=58&descSize=18&descColor=FF3B44" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A5B4FC&center=true&vCenter=true&width=600&lines=Frontend+architecture+%2B+performance;Reusable+UI+systems+at+scale;Now+going+full-stack%3A+Node.js+%2B+MySQL+%2B+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=FF3B44&center=true&vCenter=true&width=600&lines=Frontend+architecture+%2B+performance;Reusable+UI+systems+at+scale;Now+going+full-stack%3A+Node.js+%2B+MySQL+%2B+Docker" alt="Typing SVG" />
 
 <br />
 
-<a href="https://mehdirashid.me"><img src="https://img.shields.io/badge/mehdirashid.me-0D0D0D?style=flat-square&labelColor=0D0D0D&color=6366F1" /></a>
-<a href="https://www.linkedin.com/in/mhdirashid/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&labelColor=0D0D0D&color=6366F1" /></a>
-<a href="mailto:mehdirashid.work@gmail.com"><img src="https://img.shields.io/badge/mehdirashid.work%40gmail.com-0D0D0D?style=flat-square&labelColor=0D0D0D&color=6366F1" /></a>
+<a href="https://mehdirashid.me"><img src="https://img.shields.io/badge/mehdirashid.me-111111?style=flat-square&labelColor=111111&color=E31C25" /></a>
+<a href="https://www.linkedin.com/in/mhdirashid/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&labelColor=111111&color=E31C25" /></a>
+<a href="mailto:mehdirashid.work@gmail.com"><img src="https://img.shields.io/badge/mehdirashid.work%40gmail.com-111111?style=flat-square&labelColor=111111&color=E31C25" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:6366F1&height=3&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:E31C25&height=3&width=100%" width="100%" />
 
 <br />
 
@@ -26,7 +26,7 @@ Frontend Engineer at **Matican Group**. Previously **Digiato / Vigiato**, buildi
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0D0D0D&height=3&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E31C25,100:111111&height=3&width=100%" width="100%" />
 
 <h3 align="center">Stack</h3>
 
@@ -50,18 +50,18 @@ Frontend Engineer at **Matican Group**. Previously **Digiato / Vigiato**, buildi
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:6366F1&height=3&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:E31C25&height=3&width=100%" width="100%" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhdirake&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=6366F1&icon_color=A5B4FC&text_color=C9D1D9&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdirake&hide_border=true&background=0D0D0D&stroke=6366F1&ring=6366F1&fire=A5B4FC&currStreakLabel=A5B4FC" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mhdirake&show_icons=true&hide_border=true&bg_color=111111&title_color=E31C25&icon_color=FF3B44&text_color=999999&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdirake&hide_border=true&background=111111&stroke=E31C25&ring=E31C25&fire=FF3B44&currStreakLabel=FF3B44" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdirake&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=6366F1&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdirake&layout=compact&hide_border=true&bg_color=111111&title_color=E31C25&text_color=999999" height="165" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0D0D0D&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E31C25,100:111111&height=150&section=footer" width="100%" />
 
 <div align="center">
 
