@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:6366F1&height=230&section=header&text=Mehdi%20Rashid&fontSize=58&fontColor=F0F0F0&fontAlignY=38&animation=fadeIn&desc=Senior%20Frontend%20Engineer%20%E2%80%94%20React%20%2F%20Next.js%20%2F%20Vue%20%2F%20Nuxt&descAlignY=58&descSize=18&descColor=A5B4FC" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A5B4FC&center=true&vCenter=true&width=600&lines=Building+GistNex+%E2%80%94+solo%2C+end-to-end;Frontend+architecture+%2B+performance;Now+going+full-stack%3A+Node.js+%2B+MySQL+%2B+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A5B4FC&center=true&vCenter=true&width=600&lines=Frontend+architecture+%2B+performance;Reusable+UI+systems+at+scale;Now+going+full-stack%3A+Node.js+%2B+MySQL+%2B+Docker" alt="Typing SVG" />
 
 <br />
 
@@ -18,22 +18,11 @@
 
 **Senior Frontend Engineer, 6+ years,** building scalable applications across media, e‑commerce, and dashboard systems. Deep focus on frontend architecture, performance, and reusable UI systems — and lately, shipping the backend too, not just the interface in front of it.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**Now**
-Building **GistNex** solo — an automated content pipeline: collection, curation, and publishing to Telegram and a public blog. Backend, queues, admin panel, public site — every layer, one engineer.
+Frontend Engineer at **Matican Group**. Previously **Digiato / Vigiato**, building AI‑powered editorial dashboards. Independent work across landing pages, dashboards, and full products.
 
-</td>
-<td width="50%" valign="top">
-
-**Background**
-Frontend Engineer at **Afrand**. Previously **Digiato / Vigiato**, building AI‑powered editorial dashboards. Independent work across landing pages, dashboards, and full products.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
@@ -62,22 +51,6 @@ Frontend Engineer at **Afrand**. Previously **Digiato / Vigiato**, building AI�
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:6366F1&height=3&width=100%" width="100%" />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141414,100:1a1a2e&height=90&section=header&text=GistNex&fontSize=34&fontColor=A5B4FC&fontAlignY=55&animation=fadeIn" width="100%" />
-
-A content platform designed and built end‑to‑end, solo — collecting tech news from dozens of sources around the clock, curating and enriching it, then publishing polished stories to Telegram and a public blog.
-
-`Node.js` `Express` `BullMQ` `Redis` `MySQL` `Next.js` `MUI` `Telegram API`
-
-<a href="https://t.me/gistnex"><img src="https://img.shields.io/badge/View_on_Telegram-0D0D0D?style=flat-square&labelColor=0D0D0D&color=6366F1" /></a>
-
-</div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0D0D0D&height=3&width=100%" width="100%" />
 
 <div align="center">
 
