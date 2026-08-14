@@ -54,10 +54,7 @@ Frontend Engineer at **Matican Group**. Previously **Digiato / Vigiato**, buildi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhdirake&show_icons=true&hide_border=true&bg_color=111111&title_color=E31C25&icon_color=FF3B44&text_color=999999&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdirake&hide_border=true&background=111111&stroke=E31C25&ring=E31C25&fire=FF3B44&currStreakLabel=FF3B44" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdirake&layout=compact&hide_border=true&bg_color=111111&title_color=E31C25&text_color=999999" height="165" />
 
 </div>
 
